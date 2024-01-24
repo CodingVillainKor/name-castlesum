@@ -1,5 +1,4 @@
 import streamlit as st
-from manim.utils.file_ops import open_file
 from manim_name import NameMerger
 from manim import config
 config.video_dir = "./"
