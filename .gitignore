@@ -2,6 +2,7 @@ __pycache__/
 media/
 partial_movie_files/
 texts/
+history/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
